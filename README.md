@@ -24,9 +24,11 @@ June 1, 2026 – June 30, 2026
 
 * Environment Setup
 * Python Installation
-* Git Installation
+* Git Installation 
 * Virtual Environment Setup
-* First Python Program
+* First Few Python Program
+* Created .gitignore and README.md
+* Code pushed to Github 
 
 ## Author
 
