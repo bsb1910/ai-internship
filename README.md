@@ -31,4 +31,3 @@ June 1, 2026 – June 30, 2026
 ## Author
 
 BSB
-B.Tech CSE Student
